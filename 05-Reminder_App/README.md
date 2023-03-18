@@ -40,9 +40,9 @@ Reminder Detail           |  Edit Reminder
 :-------------------------:|:-------------------------:
 ![](./img/S3.png)  |  ![](./img/S4.png)
 
-Delete Reminder           |
-:-------------------------:|
-![](./img/S5.png)  |
+Delete Reminder           |  Filter Reminder
+:-------------------------:|:-------------------------:
+![](./img/S5.png)  |  ![](./img/S6.png)
 
 
 ## Technologies
