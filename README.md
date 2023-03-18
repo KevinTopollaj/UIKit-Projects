@@ -11,3 +11,7 @@ This GitHub repository showcases my professional programming proficiency using S
 ### Photo Browser
 
 - [02-Photo_Browser](02-Photo_Browser/README.md)
+
+### News App
+
+- [03-News_App](03-News_App/README.md)
