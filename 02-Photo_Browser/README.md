@@ -11,7 +11,11 @@
 * [Contact](#contact)
 
 ## Description
-Photo Browser is a mobile application where you can display and cache images from Pexels API by creating an infinite scrolling and display the full image by tapping in a specific image.
+Photo Browser is a cutting-edge mobile application designed to provide an exceptional browsing experience for images sourced from the Pexels API. With Photo Browser, users can effortlessly display and cache a virtually unlimited number of images by leveraging an innovative infinite scrolling feature.
+
+By tapping on a specific image, users can view the full version of the image, allowing for a more immersive and engaging browsing experience. The application's advanced caching capabilities further enhance its performance, providing a seamless user experience even with a slow or unreliable internet connection.
+
+Overall, Photo Browser is a high-performance mobile application that leverages advanced caching and infinite scrolling features to provide an unparalleled browsing experience for Pexels API images. Its intuitive interface and user-centric design make it an excellent choice for anyone looking to browse and discover beautiful images on their mobile device.
 
 ## General info
 
