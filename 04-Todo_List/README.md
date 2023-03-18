@@ -11,7 +11,11 @@
 * [Contact](#contact)
 
 ## Description
-To Do List is a mobile application where you can add To Do Folders and for each Folder you can add To Do Items specific to that folder. All the data is persisted using CoreData and Generics to make the classes reusable.
+The To Do List mobile application is a powerful productivity tool that enables users to create customized To Do Folders and associated To Do Items. Each Folder can be tailored to specific tasks or categories, allowing users to easily prioritize and organize their tasks.
+
+The application leverages advanced technologies such as CoreData and Generics to ensure seamless and efficient data persistence, enhancing the overall user experience. This approach also makes the application more versatile and reusable, providing a solid foundation for future development and customization.
+
+Overall, the To Do List mobile application is a sophisticated and versatile tool that offers an exceptional user experience for task management and organization. Its intuitive interface and robust feature set make it an excellent choice for anyone looking to enhance their productivity and streamline their daily tasks.
 
 ## General info
 
