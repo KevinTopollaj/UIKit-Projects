@@ -15,3 +15,7 @@ This GitHub repository showcases my professional programming proficiency using S
 ### News App
 
 - [03-News_App](03-News_App/README.md)
+
+### Todo List
+
+- [04-Todo_List](04-Todo_List/README.md)
