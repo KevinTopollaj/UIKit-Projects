@@ -6,4 +6,4 @@ This GitHub repository showcases my professional programming proficiency using S
 
 ### Event Countdown
 
-- [01-EventCountdown](01-EventCountdown/README.md)
+- [01-Event_Countdown](01-Event_Countdown/README.md)
