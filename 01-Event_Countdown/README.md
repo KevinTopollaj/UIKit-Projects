@@ -11,9 +11,11 @@
 * [Contact](#contact)
 
 ## Description
-Event Countdown is a mobile application where you can store events and each event has a title, a specific date that it is planed to happen, the year, month and day remaining until that date and a background image.
+Event Countdown is a sophisticated mobile application designed to facilitate effortless event tracking. With Event Countdown, users can easily store and manage multiple events, each of which is assigned a unique title and a specific date of occurrence. The application further enhances the user experience by presenting the remaining number of years, months, and days until each event.
 
-The user is able to add events, see the event detail and edit a specific event, and all this data are added, updated and displayed from CoreData.
+Notably, Event Countdown's intuitive interface allows users to seamlessly add new events, view event details, and edit existing events, all of which are efficiently managed through CoreData. Additionally, the application supports customization by enabling users to personalize each event with a unique background image.
+
+Overall, Event Countdown is a powerful mobile application that provides a streamlined and professional approach to event management.
 
 ## General info
 
