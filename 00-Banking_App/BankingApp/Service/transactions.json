@@ -1,0 +1,181 @@
+{
+  "collection" : [
+    {
+      "id" : "B2F2AC0290D45E04",
+      "title" : "XYZ Corporation",
+      "subtitle" : "XYZ Corporation Invoice",
+      "amount" : {
+        "value" : -2563,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "XYZ Corporation Invoice", "Products Purchased", "Transaction Fees"],
+      }
+    },
+    
+    {
+      "id" : "A4C8BB0342E29F03",
+      "title" : "ABC Consulting",
+      "subtitle" : "ABC Consulting Payment",
+      "amount" : {
+        "value" : 0,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "ABC Consulting Payment", "Consulting Services", "Late Payment Fees" ],
+      }
+      
+    },
+    
+    {
+      "id" : "B2F2AC0290D45E04",
+      "title" : "XYZ Corporation",
+      "subtitle" : "XYZ Corporation Invoice",
+      "amount" : {
+        "value" : 2563,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "XYZ Corporation Invoice", "Products Purchased", "Transaction Fees"],
+      }
+      
+    },
+    
+    {
+      "id" : "A4C8BB0342E29F03",
+      "title" : "ABC Consulting",
+      "subtitle" : "ABC Consulting Payment",
+      "amount" : {
+        "value" : 3450,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "ABC Consulting Payment", "Consulting Services", "Late Payment Fees" ],
+      }
+      
+    },
+    
+    {
+      "id" : "B2F2AC0290D45E04",
+      "title" : "XYZ Corporation",
+      "subtitle" : "XYZ Corporation Invoice",
+      "amount" : {
+        "value" : -2563,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "XYZ Corporation Invoice", "Products Purchased", "Transaction Fees"],
+      }
+    },
+    
+    {
+      "id" : "A4C8BB0342E29F03",
+      "title" : "ABC Consulting",
+      "subtitle" : "ABC Consulting Payment",
+      "amount" : {
+        "value" : 0,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "ABC Consulting Payment", "Consulting Services", "Late Payment Fees" ],
+      }
+      
+    },
+    
+    {
+      "id" : "B2F2AC0290D45E04",
+      "title" : "XYZ Corporation",
+      "subtitle" : "XYZ Corporation Invoice",
+      "amount" : {
+        "value" : 2563,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "XYZ Corporation Invoice", "Products Purchased", "Transaction Fees"],
+      }
+      
+    },
+    
+    {
+      "id" : "A4C8BB0342E29F03",
+      "title" : "ABC Consulting",
+      "subtitle" : "ABC Consulting Payment",
+      "amount" : {
+        "value" : 3450,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "ABC Consulting Payment", "Consulting Services", "Late Payment Fees" ],
+      }
+      
+    },
+    
+    {
+      "id" : "B2F2AC0290D45E04",
+      "title" : "XYZ Corporation",
+      "subtitle" : "XYZ Corporation Invoice",
+      "amount" : {
+        "value" : -2563,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "XYZ Corporation Invoice", "Products Purchased", "Transaction Fees"],
+      }
+    },
+    
+    {
+      "id" : "A4C8BB0342E29F03",
+      "title" : "ABC Consulting",
+      "subtitle" : "ABC Consulting Payment",
+      "amount" : {
+        "value" : 0,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "ABC Consulting Payment", "Consulting Services", "Late Payment Fees" ],
+      }
+      
+    },
+    
+    {
+      "id" : "B2F2AC0290D45E04",
+      "title" : "XYZ Corporation",
+      "subtitle" : "XYZ Corporation Invoice",
+      "amount" : {
+        "value" : 2563,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "XYZ Corporation Invoice", "Products Purchased", "Transaction Fees"],
+      }
+      
+    },
+    
+    {
+      "id" : "A4C8BB0342E29F03",
+      "title" : "ABC Consulting",
+      "subtitle" : "ABC Consulting Payment",
+      "amount" : {
+        "value" : 3450,
+        "precision" : 2,
+        "currency" : "EUR"
+      },
+      "additionalTexts" : {
+        "lineItems" : [ "ABC Consulting Payment", "Consulting Services", "Late Payment Fees" ],
+      }
+      
+    }
+  ]
+  
+}

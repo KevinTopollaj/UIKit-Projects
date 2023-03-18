@@ -4,6 +4,10 @@ This GitHub repository showcases my professional programming proficiency using S
 
 ## Table of contents
 
+### Banking App
+
+- [00-Banking_App](00-Banking_App/README.md)
+
 ### Event Countdown
 
 - [01-Event_Countdown](01-Event_Countdown/README.md)
