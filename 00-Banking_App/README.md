@@ -1,12 +1,19 @@
 # Banking App
 
 ## Table of contents
+* [Video Link](#video-link)
 * [Description](#description)
 * [Features](#Features)
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
+
+
+## Video Link
+
+[Bankink App Linkedin Video](https://www.linkedin.com/feed/update/urn:li:activity:7042878821913571328/)
+
 
 ## Description
 
