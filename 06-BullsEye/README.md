@@ -11,7 +11,7 @@
 
 ## Video Link
 
-[Bulls Eye]()
+[Bulls Eye](https://www.linkedin.com/feed/update/urn:li:activity:7048308097064275968/)
 
 
 ## Description
