@@ -62,7 +62,7 @@ The Model layer represents the data and business logic of the app. It is respons
 
 ### View:
 
-The View layer is responsible for displaying the data in a user-friendly way. It handles all the layouts and user interface components, such as buttons and sliders. The View knows about the ViewModel but doesn't know about the Model. In the context of Bulls Eye, the View would display the target value and the slider for the player to adjust.
+The View layer is responsible for displaying the data in a user-friendly way. It handles all the layouts and user interface components, such as buttons and sliders. In the context of Bulls Eye, the View would display the target value and the slider for the player to adjust.
 
 ### Controller:
 
