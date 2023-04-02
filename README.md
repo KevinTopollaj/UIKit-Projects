@@ -27,3 +27,7 @@ This GitHub repository showcases my professional programming proficiency using S
 ### Reminder App
 
 - [05-Reminder_App](05-Reminder_App/README.md)
+
+### Bulls Eye
+
+- [06-BullsEye](06-BullsEye/README.md)
