@@ -28,6 +28,10 @@ This GitHub repository showcases my professional programming proficiency using S
 
 - [05-Reminder_App](05-Reminder_App/README.md)
 
-### Bulls Eye
+### Bulls Eye Game
 
 - [06-BullsEye](06-BullsEye/README.md)
+
+### Check List App
+
+- [07-CheckListApp](07-CheckListApp/README.md)
