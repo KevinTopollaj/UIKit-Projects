@@ -11,7 +11,7 @@
 
 ## Video Link
 
-[Check List App]()
+[Check List App](https://www.linkedin.com/feed/update/urn:li:activity:7055918241155547136/)
 
 
 ## Description
