@@ -35,3 +35,7 @@ This GitHub repository showcases my professional programming proficiency using S
 ### Check List App
 
 - [07-CheckListApp](07-CheckListApp/README.md)
+
+### My Locations
+
+- [08-MyLocations](08-MyLocations/README.md)
