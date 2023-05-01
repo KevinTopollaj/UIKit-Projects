@@ -33,7 +33,7 @@
 
 2. Tag Location: Create a new location with a user-friendly screen for entering location details.
 
-3.Store Data: Store all location data using Core Data for a more professional and efficient data storage solution.
+3. Store Data: Store all location data using Core Data for a more professional and efficient data storage solution.
 
 4. Map View: View all your tagged locations on an interactive map with pins and user location tracking.
 
