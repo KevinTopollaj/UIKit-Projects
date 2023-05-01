@@ -11,36 +11,66 @@
 
 ## Video Link
 
-[Check List App]()
+[My Locations]()
 
 
 ## Description
 
-- 
+- Introducing MyLocations iOS App, the ultimate app for keeping track of all your favorite spots! With MyLocations, you can easily tag any location you love and store all the details you need for easy reference later on.
+
+- Getting started is a breeze - just use the Core Location framework to obtain GPS coordinates and convert them into a friendly address. Then, simply add all the details for your new location with the user-friendly Tag Location screen, featuring static cells for a familiar, intuitive experience. Plus, with Core Data integration, you can trust that all your data is safely stored and easily accessible.
+
+- View all your tagged locations on an interactive map with Map Kit framework integration. You can even add photos to each location to keep your memories alive.
+
+- MyLocations has custom graphics, sound effects, and animations.
+
+- Stay organized and never forget your favorite spots again with MyLocations - the perfect app for adventurers, travelers, or anyone who wants to keep track of the best places they've been.
 
 
 ## Features
 
-- 
+1. Get Location: Easily obtain GPS coordinates and convert them into an address with the Core Location framework.
+
+2. Tag Location: Create a new location with a user-friendly screen for entering location details.
+
+3.Store Data: Store all location data using Core Data for a more professional and efficient data storage solution.
+
+4. Map View: View all your tagged locations on an interactive map with pins and user location tracking.
+
+5. Add Photos: Snap and attach photos to your tagged locations with a seamless connection to the iPhone's camera and photo library.
+
+6. Customization: Personalize your app with custom graphics, sound effects, and animations for a unique and engaging experience.
 
 
 ## Screenshots
 
-Checklists                 | Add Checklist             | 
+Tag Tab                    | Tag Tab with Location     | 
 :-------------------------:|:-------------------------:|
 ![](./img/S1.png)          | ![](./img/S2.png)         |
 
-Choose Icon                | Edit Checklist            |
+Tag Location               | Tag Location with data    |
 :-------------------------:|:-------------------------:|
 ![](./img/S3.png)          | ![](./img/S4.png)         |
 
-Checklist item             | Add Checklist Item        |
+Categories List            | Image Picker View         |
 :-------------------------:|:-------------------------:|
 ![](./img/S5.png)          | ![](./img/S6.png)         |
 
-Edit Checklist item        | Delete Checklist Item     |
-:-------------------------:|:-------------------------:|
-![](./img/S7.png)          | ![](./img/S8.png)         |
+Successfully tagged Location  | Location List Tab         |
+:----------------------------:|:-------------------------:|
+![](./img/S7.png)             | ![](./img/S8.png)         |
+
+Edit Location List            | Delete Location List      |
+:----------------------------:|:-------------------------:|
+![](./img/S9.png)             | ![](./img/S10.png)        |
+
+Map Tab Screen                | Map Screen with Pin       |
+:----------------------------:|:-------------------------:|
+![](./img/S11.png)            | ![](./img/S12.png)        |
+
+Edit Location Screen          | Successfully edited Location |
+:----------------------------:|:----------------------------:|
+![](./img/S13.png)            | ![](./img/S14.png)           |
 
 
 
