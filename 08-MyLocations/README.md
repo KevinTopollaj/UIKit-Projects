@@ -11,7 +11,7 @@
 
 ## Video Link
 
-[My Locations]()
+[My Locations](https://www.linkedin.com/feed/update/urn:li:ugcPost:7058883676406730752/)
 
 
 ## Description
