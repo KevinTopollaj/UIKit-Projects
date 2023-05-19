@@ -39,3 +39,7 @@ This GitHub repository showcases my professional programming proficiency using S
 ### My Locations
 
 - [08-MyLocations](08-MyLocations/README.md)
+
+### Store Search
+
+- [09-StoreSearch](09-StoreSearch/README.md)
