@@ -75,19 +75,19 @@
 
 Checklists                 | Add Checklist             | 
 :-------------------------:|:-------------------------:|
-![](./img/S1.png)          | ![](./img/S2.png)         |
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300"> |
 
 Choose Icon                | Edit Checklist            |
 :-------------------------:|:-------------------------:|
-![](./img/S3.png)          | ![](./img/S4.png)         |
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300"> |
 
 Checklist item             | Add Checklist Item        |
 :-------------------------:|:-------------------------:|
-![](./img/S5.png)          | ![](./img/S6.png)         |
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300"> |
 
 Edit Checklist item        | Delete Checklist Item     |
 :-------------------------:|:-------------------------:|
-![](./img/S7.png)          | ![](./img/S8.png)         |
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300"> |
 
 
 
