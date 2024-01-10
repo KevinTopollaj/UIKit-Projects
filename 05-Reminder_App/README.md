@@ -34,15 +34,15 @@ The application views are all written in code.
 
 Reminders List            |  New Reminder
 :-------------------------:|:-------------------------:
-![](./img/S1.png)  |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 Reminder Detail           |  Edit Reminder
 :-------------------------:|:-------------------------:
-![](./img/S3.png)  |  ![](./img/S4.png)
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 Delete Reminder           |  Filter Reminder
 :-------------------------:|:-------------------------:
-![](./img/S5.png)  |  ![](./img/S6.png)
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 
 ## Technologies
