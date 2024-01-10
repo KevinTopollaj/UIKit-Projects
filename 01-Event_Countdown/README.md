@@ -30,11 +30,11 @@ The application views are all written in code and using storyboard.
 
 Event List            |  Add Event
 :-------------------------:|:-------------------------:
-![](./img/S1.png)  |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 Event Detail           |  Edit Event
 :-------------------------:|:-------------------------:
-![](./img/S3.png)  |  ![](./img/S4.png)
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 
 ## Technologies
