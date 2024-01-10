@@ -46,31 +46,31 @@
 
 Tag Tab                    | Tag Tab with Location     | 
 :-------------------------:|:-------------------------:|
-![](./img/S1.png)          | ![](./img/S2.png)         |
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300"> |
 
 Tag Location               | Tag Location with data    |
 :-------------------------:|:-------------------------:|
-![](./img/S3.png)          | ![](./img/S4.png)         |
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300"> |
 
 Categories List            | Image Picker View         |
 :-------------------------:|:-------------------------:|
-![](./img/S5.png)          | ![](./img/S6.png)         |
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300"> |
 
 Successfully tagged Location  | Location List Tab         |
 :----------------------------:|:-------------------------:|
-![](./img/S7.png)             | ![](./img/S8.png)         |
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300"> |
 
 Edit Location List            | Delete Location List      |
 :----------------------------:|:-------------------------:|
-![](./img/S9.png)             | ![](./img/S10.png)        |
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300"> |
 
 Map Tab Screen                | Map Screen with Pin       |
 :----------------------------:|:-------------------------:|
-![](./img/S11.png)            | ![](./img/S12.png)        |
+<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300"> |
 
 Edit Location Screen          | Successfully edited Location |
 :----------------------------:|:----------------------------:|
-![](./img/S13.png)            | ![](./img/S14.png)           |
+<img src="./img/S13.png" width="300"> | <img src="./img/S14.png" width="300"> |
 
 
 
