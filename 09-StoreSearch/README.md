@@ -105,47 +105,47 @@
 
 Search Store               | Search Store Loading      | 
 :-------------------------:|:-------------------------:|
-![](./img/S1.png)          | ![](./img/S2.png)         |
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300"> |
 
 Search Store Result        | Search Store Categories   |
 :-------------------------:|:-------------------------:|
-![](./img/S3.png)          | ![](./img/S4.png)         |
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300"> |
 
 Search Store Detail Popup  | Search Store Safari        |
 :-------------------------:|:-------------------------:|
-![](./img/S5.png)          | ![](./img/S6.png)         |
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300"> |
 
 Search Store Landscape  | 
 :----------------------------:|
-![](./img/S7.png)             |
+<img src="./img/S7.png" width="700"> |
 
 Search Store Landscape Detail Popup   | 
 :------------------------------------:|
-![](./img/S8.png)                     |
+<img src="./img/S8.png" width="700"> |
 
 Search Store iPad Portrait    | 
 :----------------------------:|
-![](./img/S9.png)             |
+<img src="./img/S9.png" height="800"> |
 
 Search Store iPad Portrait Results  | 
 :----------------------------------:|
-![](./img/S10.png)                  |
+<img src="./img/S10.png" height="800"> |
 
 Search Store iPad Portrait Results Detail  | 
 :-----------------------------------------:|
-![](./img/S11.png)                         |
+<img src="./img/S11.png" height="800"> |
 
 Search Store iPad Portrait Safari   | 
 :----------------------------------:|
-![](./img/S12.png)                  |
+<img src="./img/S12.png" height="800"> |
 
 Search Store iPad Landscape         | 
 :----------------------------------:|
-![](./img/S13.png)                  |
+<img src="./img/S13.png" height="800"> |
 
 Search Store iPad Landscape Popup Menu   | 
 :---------------------------------------:|
-![](./img/S14.png)                       |
+<img src="./img/S14.png" height="800"> |
 
 
 
