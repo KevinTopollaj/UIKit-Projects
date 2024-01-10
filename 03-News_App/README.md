@@ -31,7 +31,7 @@ In order to run the application you must have an API key provided by: [newsapi](
 
 News List            |  News Detail in Safari
 :-------------------------:|:-------------------------:
-![](./img/S1.png)  |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 
 ## Technologies
