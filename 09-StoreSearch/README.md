@@ -125,27 +125,27 @@ Search Store Landscape Detail Popup   |
 
 Search Store iPad Portrait    | 
 :----------------------------:|
-<img src="./img/S9.png" height="800"> |
+<img src="./img/S9.png" height="700"> |
 
 Search Store iPad Portrait Results  | 
 :----------------------------------:|
-<img src="./img/S10.png" height="800"> |
+<img src="./img/S10.png" height="700"> |
 
 Search Store iPad Portrait Results Detail  | 
 :-----------------------------------------:|
-<img src="./img/S11.png" height="800"> |
+<img src="./img/S11.png" height="700"> |
 
 Search Store iPad Portrait Safari   | 
 :----------------------------------:|
-<img src="./img/S12.png" height="800"> |
+<img src="./img/S12.png" height="700"> |
 
 Search Store iPad Landscape         | 
 :----------------------------------:|
-<img src="./img/S13.png" height="800"> |
+<img src="./img/S13.png" width="700">> |
 
 Search Store iPad Landscape Popup Menu   | 
 :---------------------------------------:|
-<img src="./img/S14.png" height="800"> |
+<img src="./img/S14.png" width="700"> |
 
 
 
