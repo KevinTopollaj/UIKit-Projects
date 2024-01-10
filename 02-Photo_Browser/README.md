@@ -30,7 +30,7 @@ The application views are all written in code.
 
 Images List            |  Image Detail
 :-------------------------:|:-------------------------:
-![](./img/S1.png)  |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300">  |  <img src="./img/S2.png" width="300">
 
 
 ## Technologies
