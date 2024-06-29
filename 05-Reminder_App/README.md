@@ -1,13 +1,29 @@
 # Reminder App
 
 ## Table of contents
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Architecture](#architecture)
 * [Features](#features)
 * [Contact](#contact)
+
+
+## Screenshots
+
+Reminders List            |  New Reminder
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Reminder Detail           |  Edit Reminder
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Delete Reminder           |  Filter Reminder
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
 
 
 ## Description
@@ -29,20 +45,6 @@ Overall, the Reminder app is a powerful and reliable tool for anyone looking to 
 ### Project Setup
 The application views are all written in code.
 
-
-## Screenshots
-
-Reminders List            |  New Reminder
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Reminder Detail           |  Edit Reminder
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Delete Reminder           |  Filter Reminder
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 
 ## Technologies
