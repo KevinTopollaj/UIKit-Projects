@@ -1,14 +1,27 @@
 # Event Countdown
 
 ## Table of contents
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Architecture](#architecture)
 * [DesignPattern](#designpattern)
 * [Features](#features)
 * [Contact](#contact)
+
+## Screenshots
+
+
+Event List            |  Add Event
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Event Detail           |  Edit Event
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+
 
 ## Description
 Event Countdown is a sophisticated mobile application designed to facilitate effortless event tracking. With Event Countdown, users can easily store and manage multiple events, each of which is assigned a unique title and a specific date of occurrence. The application further enhances the user experience by presenting the remaining number of years, months, and days until each event.
@@ -25,16 +38,6 @@ Overall, Event Countdown is a powerful mobile application that provides a stream
 ### Project Setup
 The application views are all written in code and using storyboard.
 
-
-## Screenshots
-
-Event List            |  Add Event
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Event Detail           |  Edit Event
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 
 ## Technologies
