@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
@@ -12,6 +12,55 @@
 ## Video Link
 
 [Store Search](https://www.linkedin.com/feed/update/urn:li:activity:7065717813306343424/)
+
+
+
+## Screenshots
+
+Search Store               | Search Store Loading      | 
+:-------------------------:|:-------------------------:|
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300"> |
+
+Search Store Result        | Search Store Categories   |
+:-------------------------:|:-------------------------:|
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300"> |
+
+Search Store Detail Popup  | Search Store Safari        |
+:-------------------------:|:-------------------------:|
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300"> |
+
+Search Store Landscape  | 
+:----------------------------:|
+<img src="./img/S7.png" width="700"> |
+
+Search Store Landscape Detail Popup   | 
+:------------------------------------:|
+<img src="./img/S8.png" width="700"> |
+
+Search Store iPad Portrait    | 
+:----------------------------:|
+<img src="./img/S9.png" height="700"> |
+
+Search Store iPad Portrait Results  | 
+:----------------------------------:|
+<img src="./img/S10.png" height="700"> |
+
+Search Store iPad Portrait Results Detail  | 
+:-----------------------------------------:|
+<img src="./img/S11.png" height="700"> |
+
+Search Store iPad Portrait Safari   | 
+:----------------------------------:|
+<img src="./img/S12.png" height="700"> |
+
+Search Store iPad Landscape         | 
+:----------------------------------:|
+<img src="./img/S13.png" width="700">> |
+
+Search Store iPad Landscape Popup Menu   | 
+:---------------------------------------:|
+<img src="./img/S14.png" width="700"> |
+
 
 
 ## Description
@@ -98,54 +147,6 @@
 28. Regional Settings: Modify the web query to send the device language and region to get localized search results.
 
 29. Addapt the app for to be used also for iPad.
-
-
-
-## Screenshots
-
-Search Store               | Search Store Loading      | 
-:-------------------------:|:-------------------------:|
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300"> |
-
-Search Store Result        | Search Store Categories   |
-:-------------------------:|:-------------------------:|
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300"> |
-
-Search Store Detail Popup  | Search Store Safari        |
-:-------------------------:|:-------------------------:|
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300"> |
-
-Search Store Landscape  | 
-:----------------------------:|
-<img src="./img/S7.png" width="700"> |
-
-Search Store Landscape Detail Popup   | 
-:------------------------------------:|
-<img src="./img/S8.png" width="700"> |
-
-Search Store iPad Portrait    | 
-:----------------------------:|
-<img src="./img/S9.png" height="700"> |
-
-Search Store iPad Portrait Results  | 
-:----------------------------------:|
-<img src="./img/S10.png" height="700"> |
-
-Search Store iPad Portrait Results Detail  | 
-:-----------------------------------------:|
-<img src="./img/S11.png" height="700"> |
-
-Search Store iPad Portrait Safari   | 
-:----------------------------------:|
-<img src="./img/S12.png" height="700"> |
-
-Search Store iPad Landscape         | 
-:----------------------------------:|
-<img src="./img/S13.png" width="700">> |
-
-Search Store iPad Landscape Popup Menu   | 
-:---------------------------------------:|
-<img src="./img/S14.png" width="700"> |
 
 
 
