@@ -2,10 +2,10 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
@@ -13,6 +13,23 @@
 ## Video Link
 
 [Bankink App Linkedin Video](https://www.linkedin.com/feed/update/urn:li:activity:7042878821913571328/)
+
+
+
+## Screenshots
+
+Onboarding Screen1         |  Onboarding Screen2
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Onboarding Screen3         |  Transactions List
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Retry Screen               |  Transactions Detail
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
 
 
 ## Description
@@ -53,20 +70,6 @@ The application views are all written in code and xib file because there are a f
 * Storyboards introduce coupling between your code and UI, which can lead to crashes e.g. when an outlet or action is not set up correctly. These issues are not detected by the compiler.
 * You can create the constraints in code and create a more complex UI layout.
 
-
-## Screenshots
-
-Onboarding Screen1         |  Onboarding Screen2
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Onboarding Screen3         |  Transactions List
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Retry Screen               |  Transactions Detail
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 
 ## Architecture
