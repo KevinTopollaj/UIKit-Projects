@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
@@ -12,6 +12,27 @@
 ## Video Link
 
 [Check List App](https://www.linkedin.com/feed/update/urn:li:activity:7055918241155547136/)
+
+
+
+## Screenshots
+
+Checklists                 | Add Checklist             | 
+:-------------------------:|:-------------------------:|
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300"> |
+
+Choose Icon                | Edit Checklist            |
+:-------------------------:|:-------------------------:|
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300"> |
+
+Checklist item             | Add Checklist Item        |
+:-------------------------:|:-------------------------:|
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300"> |
+
+Edit Checklist item        | Delete Checklist Item     |
+:-------------------------:|:-------------------------:|
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300"> |
+
 
 
 ## Description
@@ -69,25 +90,6 @@
 
 
 9. Requests user permissions for local notifications, with the ability to schedule reminders that will display even when the app is not running.
-
-
-## Screenshots
-
-Checklists                 | Add Checklist             | 
-:-------------------------:|:-------------------------:|
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300"> |
-
-Choose Icon                | Edit Checklist            |
-:-------------------------:|:-------------------------:|
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300"> |
-
-Checklist item             | Add Checklist Item        |
-:-------------------------:|:-------------------------:|
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300"> |
-
-Edit Checklist item        | Delete Checklist Item     |
-:-------------------------:|:-------------------------:|
-<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300"> |
 
 
 
