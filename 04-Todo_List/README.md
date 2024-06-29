@@ -1,16 +1,24 @@
 # ToDoList
 
 ## Table of contents
+* [Demo](#demo)
 * [Description](#description)
 * [General info](#general-info)
-* [Demo](#demo)
 * [Technologies](#technologies)
 * [Architecture](#architecture)
 * [DesignPattern](#designpattern)
 * [Features](#features)
 * [Contact](#contact)
 
+
+## Demo
+
+<img src="demo.gif?raw=true" width="325px" height="650">
+
+
+
 ## Description
+
 The To Do List mobile application is a powerful productivity tool that enables users to create customized To Do Folders and associated To Do Items. Each Folder can be tailored to specific tasks or categories, allowing users to easily prioritize and organize their tasks.
 
 The application leverages advanced technologies such as CoreData and Generics to ensure seamless and efficient data persistence, enhancing the overall user experience. This approach also makes the application more versatile and reusable, providing a solid foundation for future development and customization.
@@ -25,9 +33,6 @@ Overall, the To Do List mobile application is a sophisticated and versatile tool
 ### Project Setup
 The application views are all written in code.
 
-## Demo
-
-<img src="demo.gif?raw=true" width="325px" height="650">
 
 ## Technologies
 * Swift
