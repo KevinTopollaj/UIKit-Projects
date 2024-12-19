@@ -1,14 +1,22 @@
 # PhotoBrowser
 
 ## Table of contents
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Architecture](#architecture)
 * [DesignPattern](#designpattern)
 * [Features](#features)
 * [Contact](#contact)
+
+## Screenshots
+
+Images List            |  Image Detail
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300">  |  <img src="./img/S2.png" width="300">
+
+
 
 ## Description
 Photo Browser is a cutting-edge mobile application designed to provide an exceptional browsing experience for images sourced from the Pexels API. With Photo Browser, users can effortlessly display and cache a virtually unlimited number of images by leveraging an innovative infinite scrolling feature.
@@ -25,12 +33,6 @@ Overall, Photo Browser is a high-performance mobile application that leverages a
 ### Project Setup
 The application views are all written in code.
 
-
-## Screenshots
-
-Images List            |  Image Detail
-:-------------------------:|:-------------------------:
-![](./img/S1.png)  |  ![](./img/S2.png)
 
 
 ## Technologies

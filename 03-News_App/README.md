@@ -1,16 +1,26 @@
 # NewsApp
 
 ## Table of contents
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Architecture](#architecture)
 * [DesignPattern](#designpattern)
 * [Features](#features)
 * [Contact](#contact)
 
+
+## Screenshots
+
+News List            |  News Detail in Safari
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+
+
 ## Description
+
 The News App is a sophisticated mobile application that enables users to stay up-to-date with the latest news from a vast array of sources. Through seamless integration with the News API, the application enables users to display and cache images, creating a compelling list of news articles that can be easily accessed and enjoyed.
 
 Upon selecting a news article, the application leverages the powerful SafariServices to display the full article, providing users with a seamless and immersive reading experience. The News App's advanced caching features further enhance its performance, enabling smooth and effortless browsing even when connectivity is limited.
@@ -26,12 +36,6 @@ The application views are all written in code.
 
 In order to run the application you must have an API key provided by: [newsapi](https://newsapi.org/)
 
-
-## Screenshots
-
-News List            |  News Detail in Safari
-:-------------------------:|:-------------------------:
-![](./img/S1.png)  |  ![](./img/S2.png)
 
 
 ## Technologies

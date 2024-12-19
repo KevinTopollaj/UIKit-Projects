@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
@@ -12,6 +12,23 @@
 ## Video Link
 
 [Bulls Eye](https://www.linkedin.com/feed/update/urn:li:activity:7048308097064275968/)
+
+
+
+## Screenshots
+
+Bulls Eye Screen           |  
+:-------------------------:|
+![](./img/S1.png)          |  
+
+Displaying Scores          |  
+:-------------------------:|
+![](./img/S2.png)          |  
+
+Information Screen         |  
+:-------------------------:|
+![](./img/S3.png)          | 
+
 
 
 ## Description
@@ -36,20 +53,6 @@ In conclusion, Bulls Eye is a fun and challenging game that will test your preci
 - Ability to reset the game at any time.
 - Diplaying information abut the game using `WKWebView`.
 
-
-## Screenshots
-
-Bulls Eye Screen           |  
-:-------------------------:|
-![](./img/S1.png)          |  
-
-Displaying Scores          |  
-:-------------------------:|
-![](./img/S2.png)          |  
-
-Information Screen         |  
-:-------------------------:|
-![](./img/S3.png)          | 
 
 
 ## Architecture

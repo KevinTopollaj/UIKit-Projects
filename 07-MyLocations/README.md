@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
@@ -12,6 +12,39 @@
 ## Video Link
 
 [My Locations](https://www.linkedin.com/feed/update/urn:li:ugcPost:7058883676406730752/)
+
+
+
+## Screenshots
+
+Tag Tab                    | Tag Tab with Location     | 
+:-------------------------:|:-------------------------:|
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300"> |
+
+Tag Location               | Tag Location with data    |
+:-------------------------:|:-------------------------:|
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300"> |
+
+Categories List            | Image Picker View         |
+:-------------------------:|:-------------------------:|
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300"> |
+
+Successfully tagged Location  | Location List Tab         |
+:----------------------------:|:-------------------------:|
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300"> |
+
+Edit Location List            | Delete Location List      |
+:----------------------------:|:-------------------------:|
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300"> |
+
+Map Tab Screen                | Map Screen with Pin       |
+:----------------------------:|:-------------------------:|
+<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300"> |
+
+Edit Location Screen          | Successfully edited Location |
+:----------------------------:|:----------------------------:|
+<img src="./img/S13.png" width="300"> | <img src="./img/S14.png" width="300"> |
+
 
 
 ## Description
@@ -40,37 +73,6 @@
 5. Add Photos: Snap and attach photos to your tagged locations with a seamless connection to the iPhone's camera and photo library.
 
 6. Customization: Personalize your app with custom graphics, sound effects, and animations for a unique and engaging experience.
-
-
-## Screenshots
-
-Tag Tab                    | Tag Tab with Location     | 
-:-------------------------:|:-------------------------:|
-![](./img/S1.png)          | ![](./img/S2.png)         |
-
-Tag Location               | Tag Location with data    |
-:-------------------------:|:-------------------------:|
-![](./img/S3.png)          | ![](./img/S4.png)         |
-
-Categories List            | Image Picker View         |
-:-------------------------:|:-------------------------:|
-![](./img/S5.png)          | ![](./img/S6.png)         |
-
-Successfully tagged Location  | Location List Tab         |
-:----------------------------:|:-------------------------:|
-![](./img/S7.png)             | ![](./img/S8.png)         |
-
-Edit Location List            | Delete Location List      |
-:----------------------------:|:-------------------------:|
-![](./img/S9.png)             | ![](./img/S10.png)        |
-
-Map Tab Screen                | Map Screen with Pin       |
-:----------------------------:|:-------------------------:|
-![](./img/S11.png)            | ![](./img/S12.png)        |
-
-Edit Location Screen          | Successfully edited Location |
-:----------------------------:|:----------------------------:|
-![](./img/S13.png)            | ![](./img/S14.png)           |
 
 
 
